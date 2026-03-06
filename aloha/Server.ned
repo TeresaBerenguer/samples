@@ -32,6 +32,7 @@ simple Server
         @statistic[collisionLength](record=vector?,histogram,mean,sum,max; title="collision length");
         @statistic[receivedFrames](source="sum(receive)"; record=last; title="received frames");
         @statistic[collidedFrames](source="sum(collision)"; record=last; title="collided frames");
+        @statistic[channelUtilization](source="timeavg(receive)"; record=vector; interpolationmode=lineal; title="channel utilization vector");
     gates:
         input in @directIn;
 }
