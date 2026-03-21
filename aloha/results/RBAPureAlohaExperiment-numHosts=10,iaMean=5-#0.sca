@@ -1,8 +1,8 @@
 version 3
-run RBAPureAlohaExperiment-4-20260306-12:19:32-1312
+run RBAPureAlohaExperiment-4-20260321-17:55:56-4928
 attr configname RBAPureAlohaExperiment
-attr datetime 20260306-12:19:32
-attr datetimef 20260306-121932
+attr datetime 20260321-17:55:56
+attr datetimef 20260321-175556
 attr experiment RBAPureAlohaExperiment
 attr inifile omnetpp.ini
 attr iterationvars "$numHosts=10, $iaMean=5"
@@ -10,7 +10,7 @@ attr iterationvarsd numHosts=10/iaMean=5
 attr iterationvarsf numHosts=10,iaMean=5-
 attr measurement "$numHosts=10, $iaMean=5"
 attr network Aloha
-attr processid 1312
+attr processid 4928
 attr repetition 0
 attr replication #0
 attr resultdir results

@@ -1,8 +1,8 @@
 version 3
-run RBAPureAlohaExperiment-0-20260306-12:19:31-1312
+run RBAPureAlohaExperiment-0-20260321-17:55:55-4928
 attr configname RBAPureAlohaExperiment
-attr datetime 20260306-12:19:31
-attr datetimef 20260306-121931
+attr datetime 20260321-17:55:55
+attr datetimef 20260321-175555
 attr experiment RBAPureAlohaExperiment
 attr inifile omnetpp.ini
 attr iterationvars "$numHosts=10, $iaMean=1"
@@ -10,7 +10,7 @@ attr iterationvarsd numHosts=10/iaMean=1
 attr iterationvarsf numHosts=10,iaMean=1-
 attr measurement "$numHosts=10, $iaMean=1"
 attr network Aloha
-attr processid 1312
+attr processid 4928
 attr repetition 0
 attr replication #0
 attr resultdir results
@@ -91,7 +91,7 @@ attr recordingmode vector
 attr source state
 attr title "Radio state"
 vector 11 Aloha.server channelUtilization:vector ETV
-attr interpolationmode lineal
+attr interpolationmode linear
 attr recordingmode vector
 attr source timeavg(receive)
 attr title "channel utilization vector"

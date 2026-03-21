@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<analysis version="2">
+    <inputs>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=1-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=1-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=2-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=2-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=3-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=3-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=4-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=4-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=5-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=5-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=7-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=7-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=9-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=10,iaMean=9-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=1-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=1-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=2-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=2-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=3-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=3-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=4-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=4-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=5-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=5-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=7-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=7-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=9-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=15,iaMean=9-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=1-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=1-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=2-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=2-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=3-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=3-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=4-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=4-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=5-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=5-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=7-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=7-#0.vec"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=9-#0.sca"/>
+        <input pattern="RBAPureAlohaExperiment-numHosts=20,iaMean=9-#0.vec"/>
+    </inputs>
+    <charts/>
+</analysis>
